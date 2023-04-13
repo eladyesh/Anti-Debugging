@@ -1,3 +1,4 @@
+###  Anti-Debugging Techniques
 This repository contains code examples of anti-debugging techniques for Windows applications. These techniques can be used to protect your application from reverse engineering and debugging, by making it more difficult for a user to attach a debugger and inspect your code.
 
 Techniques included
