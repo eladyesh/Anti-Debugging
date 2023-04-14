@@ -1,7 +1,6 @@
 typedef struct _PEB {
  BYTE Reserved1[2];
  BYTE BeingDebugged;
-354 Chapter 16
  BYTE Reserved2[1];
  PVOID Reserved3[2];
  PPEB_LDR_DATA Ldr;
